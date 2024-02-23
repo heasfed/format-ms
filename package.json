@@ -17,6 +17,9 @@
     "duration",
     "number"
   ],
+  "dependencies": {
+		"parse-ms": "^4.0.0"
+	},
   "author": "heasfed",
   "license": "MIT"
 }
