@@ -1,0 +1,22 @@
+{
+  "name": "format-ms",
+  "version": "0.0.1",
+  "description": "Transform milliseconds into an easily-understandable string format",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heasfed/format-ms.git"
+  },
+  "homepage": "https://github.com/heasfed/format-ms",
+  "keywords": [
+    "format",
+    "pretty",
+    "milliseconds",
+    "duration",
+    "number"
+  ],
+  "author": "heasfed",
+  "license": "MIT"
+}
